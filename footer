@@ -1,0 +1,37 @@
+  <div class="container_12">
+    <footer>
+      <div class="wrapper">
+        <div class="grid_6">
+          <h2>About</h2>
+          <p>We are Webtech & more! We are professionals, and Yes! we love our jobs</p>
+          <ul class="social">
+            <li> <a href= "https://www.twitter.com/@webtech_n_more" target="_blank">
+              <figure><img src="images/soc1.png" width="31" height="24" alt=""></figure>
+              Follow us on Twitter</a> </li>
+            <li> <a href="https://www.facebook.com/webtechandmore.org" target="_blank">
+              <figure><img src="images/soc2.png" width="31" height="26" alt=""></figure>
+              Join us on Facebook</a> </li>
+            <li> <a href="skype:onaolapo.ayo@gmail.com?add" targer= "_blank">
+              <figure><img src="images/soc3.png" width="31" height="26" alt=""></figure>
+              Skype us</a> </li>
+            <li class="cont_item m_bottom_zero"> <a href="#">
+              <figure style"display:block;"><img src="images/soc4.png" width="31" height="20" alt=""></figure>
+              contact@webtechandmore.org</a> </li>
+          </ul>
+        </div>
+        <div class="grid_6">
+          <h2>Copyright</h2>
+          A production of webtech&more &copy 2014... All right reserved <br> <br> </div>
+        <div class="grid_6 last-col">
+          <h2>Navigate</h2>
+          <ul class="navigate">
+            <li><a href="index.php">Home</a></li>
+            <li><a href="about.php">About</a></li>
+            <li><a href="faq.php">FAQ</a></li>
+            <li><a href="services.php">Services</a></li>
+            <li><a href="contact_us.php">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+  </div>
