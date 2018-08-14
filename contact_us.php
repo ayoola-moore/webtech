@@ -65,7 +65,8 @@
           <article class="grid_12">
             <h2>Reach Us</h2>
             
-            <form action="" method="post" id="cform" name="cform">
+            <form action="https://formspree.io/contact@webtechandmore.org"
+                  method="POST" id="cform" name="cform">
               <ul id="homehireus" class="hireform contactform">
                 <li>
                   <label>Name:<span class="required">*</span></label>
@@ -108,9 +109,9 @@
       <div class="wrapper">
         <h2>We love to work with you.. Just call us Now</h2>
         <article class="grid_3"> <b>Tel </b>
-          <p> +234(0)8064399054 </p>
-          <p> +234(0)8183352579 </p>
-          <p> +234(0)8053054250 </p>
+          <p> +234(0)8039424471 </p>
+          <p> +234(0)8085694078 </p>
+            <p> +234(0)8064399054 </p>
         </article>
 
         <article class="grid_3"> <b>Lagos, Nigeria </b>

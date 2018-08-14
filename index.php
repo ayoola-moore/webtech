@@ -220,7 +220,8 @@ With this service, all that is needed to make a call is internet connectivity. A
           <p class="MB0"> Send us your details and we'll get in touch withtin 24 hours. </p>
         </article>
         <article class="grid_9">
-          <form action="" method="post" id="cform" name="cform" class="clearfix">
+          <form action="https://formspree.io/contact@webtechandmore.org"
+                method="POST" id="cform" name="cform" class="clearfix">
             <ul id="homehireus" class="hireform">
               <li>
                 <label>Name:<span class="required">*</span></label>
