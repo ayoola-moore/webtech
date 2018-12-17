@@ -10,7 +10,7 @@ mark, rp, rt, ruby, summary, time {
 	display: inline
 }
 
-.js div#preloader { position: fixed; left: 0; top: 0; z-index: 999; width: 100%; height: 100%; overflow: visible; background: #333 url('http://files.mimoymima.com/images/loading.gif') no-repeat center center; }
+.js div#preloader { position: fixed; left: 0; top: 0; z-index: 999; width: 100%; height: 100%; overflow: visible; background: #fff url('../images/Rolling-1s-200px.gif') no-repeat center center; }
 
 
 /*
